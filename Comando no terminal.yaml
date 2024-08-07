@@ -1,0 +1,20 @@
+Comando no terminal 
+mkdir pasta - cria a pasta
+cd pasta - vai para a pasta
+pwd - mostra onde estamos
+ls - mostra conteúdo da pasta
+touch arquivo.py - cria arquivo python
+cd ~ - volta para a raíz do diretório
+cd .. - Volta um nível na pasta
+cd ../.. - Volta 2 níveis na pasta. Podemos voltar N.
+cd ../ex01 - volta 1 nível e vai para a pasta ex01. Podemos fazer para N tanto voltando qto indo.
+ctrl + Shift + V - Cola conteúdo
+ls -la - Mostra permissões de execução do arquivo e árvore de arquivos.
+CRTL + F5 executa o código no vscode
+fish - Deixa com cores o terminal
+
+#!/usr/bin/env python3  - Esse comando na primeira linha do código e    
+chmod +x arquivo.py - No terminal fazem com que o arquivo fique executável através do comando
+./arquivo.py
+
+
