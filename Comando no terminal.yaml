@@ -4,6 +4,8 @@ cd pasta - vai para a pasta
 pwd - mostra onde estamos
 ls - mostra conteúdo da pasta
 touch arquivo.py - cria arquivo python
+cd - vai para a raiz
+cd - - Volta para a pasta que estava
 cd ~ - volta para a raíz do diretório
 cd .. - Volta um nível na pasta
 cd ../.. - Volta 2 níveis na pasta. Podemos voltar N.
@@ -17,6 +19,8 @@ fish - Deixa com cores o terminal
 chmod +x arquivo.py - No terminal fazem com que o arquivo fique executável através do comando
 ./arquivo.py
 
+Tenho que estar dentro da pasta discovery_piscine que é onde tem a  pasta .git
+ls -a - vai mostrar a pasta oculta .git
 git add .
 git commit -m "xpto"
 git push

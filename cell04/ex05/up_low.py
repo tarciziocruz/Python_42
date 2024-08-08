@@ -3,7 +3,7 @@ from math import ceil
 
 def main():
 	try:
-		texto = str(input("Give me a number: "))
+		texto = str(input("Give me a text: "))
 		
 		print (texto.swapcase())
 	except ValueError:
