@@ -17,4 +17,8 @@ fish - Deixa com cores o terminal
 chmod +x arquivo.py - No terminal fazem com que o arquivo fique executável através do comando
 ./arquivo.py
 
+git add .
+git commit -m "xpto"
+git push
+
 
